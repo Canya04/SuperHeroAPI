@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="superhero">#73673AB7</color>
+    <color name="intelligence">#00FF00</color>
+    <color name="strength">#FF0000</color>
+    <color name="speed">#E88B00</color>
+    <color name="durability">#03A9F4</color>
+    <color name="power">#FFEB3B</color>
+    <color name="combat">#673AB7</color>
+    
+</resources>
